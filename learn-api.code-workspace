@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "lang_chain"
+		},
+		{
+			"path": "vector-db"
+		}
+	],
+	"settings": {}
+}

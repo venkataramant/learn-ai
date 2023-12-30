@@ -1,0 +1,6 @@
+numpy
+matplotlib
+requests
+pyjson
+weaviate-client
+python-dotenv
