@@ -1,0 +1,32 @@
+Bag of Words (BOW)
+NER - Name entity recognization
+Name entity identification
+NLP
+Sparsity
+Corpus - A collection of words
+Amenable
+N-Gram Model
+    Unigram
+    Bigram
+    ThriGram
+Sentiment Analysis
+    - Detect (polarity/emotions/intent)
+    - Lexicon based
+    - ML based
+nuanced - Complex and subtle
+max_features parameters
+CountVectorizer
+detrimental
+Customer Churn
+Unaddressed
+persistence
+Tarnish
+dissuaded
+Repercussions
+predict their sentiment
+Confidence Interval
+hexapin
+Residual (standard deviation)
+Metamorphosis
+hyphenated
+apostrophes

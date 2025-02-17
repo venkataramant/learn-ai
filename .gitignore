@@ -3,3 +3,7 @@
 .project
 .pydevproject
 activate.sh
+uta-pg-aiml
+.idea
+.vscode
+raman-forks
